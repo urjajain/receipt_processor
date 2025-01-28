@@ -5,3 +5,4 @@ Steps to execute the project:
 3. Initialize project (npm init -y)
 4. Import modules( npm install express body-parser uuid)
 5. Start the server (node server.js)
+6. Test API endpoints
